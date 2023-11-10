@@ -41,6 +41,7 @@
             <li><strong>Gain hands-on experience with industry-standard tools</strong></li>
             <li><strong>Join withus and thanks for choosing devops course</strong></li>
             <li><b> learn here and lead anywhere!!!!!!!!</b></li>
+             <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F550213279448268180%2F&psig=AOvVaw2m0T8qk053Qb-bqnqcXL8E&ust=1699670564028000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCOCvm7W0uIIDFQAAAAAdAAAAABAE" alt="Girl in a jacket" width="500" height="600">
         </ul>
     </div>
 </body>
