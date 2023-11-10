@@ -42,6 +42,7 @@
             <li><strong>Join withus and thanks for choosing devops course</strong></li>
             <li><b> learng here and lead anywhere!!!!!!!!</b></li>
             <li><b> JENKINS-DEPOYMENT-TASK</b></li>
+            <li><b> DEVOPS-JENKINS-SESSION</b></li>
         </ul>
     </div>
 </body>
