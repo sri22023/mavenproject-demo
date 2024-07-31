@@ -33,7 +33,7 @@
 <body>
     <div class="container">
         <marquee behavior="scroll" direction="left" scrollamount="4">
-            <h1>Welcome to Codingrad DevOps Course</h1>
+            <h1>Welcome to PYTHONLIFE DevOps Course</h1>
         </marquee>
         <ul>
             <li><strong>Learn DevOps principles and practices</strong></li>
