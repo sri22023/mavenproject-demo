@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome to PYTHONLIFE DevOps Course</title>
+    <title>HOME-PAGE</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -33,14 +33,14 @@
 <body>
     <div class="container">
         <marquee behavior="scroll" direction="left" scrollamount="4">
-            <h1>Welcome to PYTHONLIFE DevOps Course</h1>
+            <h1>Welcome to Krishna DevOps Course</h1>
         </marquee>
         <ul>
             <li><strong>Learn DevOps methodologies and principles </strong></li>
             <li><strong>Master the art of automation and continuous integration</strong></li>
             <li><strong>Gain hands-on experience with industry-standard tools</strong></li>
             <li><strong>Join withus and thanks for choosing devops course</strong></li>
-            <li><b> learn here and lead anywhere!!!!!!!!</b></li>
+            <li><b> @@@@@Learn here and Lead anywhere@@@@@@@</b></li>
         </ul>
     </div>
 </body>
