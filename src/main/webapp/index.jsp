@@ -36,7 +36,7 @@
             <h1>Welcome to Krishna DevOps Course</h1>
         </marquee>
         <ul>
-            <li><strong>Learn DevOps CULTURE and principles </strong></li>
+            <li><strong>Learn DevOps Methodology and principles </strong></li>
             <li><strong>Master the art of automation and continuous integration</strong></li>
             <li><strong>Gain hands-on experience with industry-standard tools</strong></li>
             <li><strong>Join withus and thanks for choosing devops course</strong></li>
