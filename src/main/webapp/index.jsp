@@ -33,7 +33,7 @@
 <body>
     <div class="container">
         <marquee behavior="scroll" direction="left" scrollamount="4">
-            <h1>Welcome to Krishna DevOps Course</h1>
+            <h1>Welcome to Pythonlife DevOps Course</h1>
         </marquee>
         <ul>
             <li><strong>Learn DevOps Methodology and principles </strong></li>
